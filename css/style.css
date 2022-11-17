@@ -2,17 +2,17 @@
  padding: 0;
  margin: 0;
  box-sizing: border-box;
- border: solid 1px black;
+ /* border: solid 1px black; */
 }
 
 
 
-Header{
+/* Header{
     height: 50px;
     position: fixed;
     right: 0%;
     top:0;
-}
+} */
 
 
 .img-jumbo img{

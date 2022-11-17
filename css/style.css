@@ -2,10 +2,35 @@
  padding: 0;
  margin: 0;
  box-sizing: border-box;
+ /* border: solid 1px black; */
 }
+
+Header{
+    position: fixed;
+    right: 0%;
+    top:0;
+}
+
 
 .item-list{
     display: none;
 }
 
+.font-size-90{
+font-size: 90%;
+}
 
+.my-image img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.line{
+    width: 80px;
+    border: solid 2px black;
+    border-radius: 5px;
+}
+
+.col-12 i {
+
+}
